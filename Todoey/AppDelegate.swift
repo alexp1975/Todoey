@@ -15,7 +15,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-        print("did finish loading with options")
+  
         
        
         
@@ -23,11 +23,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationWillResignActive(_ application: UIApplication) {
-     print ("Will resign")
+     
     }
 
     func applicationDidEnterBackground(_ application: UIApplication) {
-        print("did enter background")
+        
     }
 
     func applicationWillEnterForeground(_ application: UIApplication) {
@@ -39,7 +39,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 
     func applicationWillTerminate(_ application: UIApplication) {
-         print("did terminate")
+   
     }
 
 
