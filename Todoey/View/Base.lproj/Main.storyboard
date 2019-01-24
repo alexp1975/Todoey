@@ -94,7 +94,7 @@
                             </tableViewCell>
                         </prototypes>
                         <connections>
-                            <outlet property="dataSource" destination="Gpg-wg-M2F" id="YhS-1J-6E8"/>
+                            <outlet property="dataSource" destination="Gpg-wg-M2F" id="l1W-xz-M84"/>
                             <outlet property="delegate" destination="Gpg-wg-M2F" id="ADV-Cc-sH4"/>
                         </connections>
                     </tableView>
